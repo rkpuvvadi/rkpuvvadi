@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @kd
+- 👋 Hi, I’m rk
 - 👀 I’m interested in anything ops or automation
-
